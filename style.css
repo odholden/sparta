@@ -1,0 +1,12 @@
+body {
+	background: aquamarine;
+}
+
+#mainHeading {
+	font-family: sans-serif;
+	color: blue;
+}
+
+.red {
+	color: red;
+}
